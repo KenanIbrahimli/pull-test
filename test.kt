@@ -9,3 +9,7 @@ fun newFunction(){
 fun newFunction2(){
     print("it is correct second")
 }
+
+fun newFunction3(){
+    print("it is correct third")
+}
