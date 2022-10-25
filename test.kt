@@ -3,5 +3,5 @@ fun main(){
 }
 
 fun newFunction(){
-    print("hell new worldgit")
+    print("it is correct one")
 }
