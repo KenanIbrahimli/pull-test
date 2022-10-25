@@ -13,3 +13,7 @@ fun newFunction2(){
 fun newFunction3(){
     print("it is correct third")
 }
+
+fun newFunction4(){
+    print("it is correct fourth")
+}
